@@ -1,0 +1,41 @@
+{
+	"storyName": "starjump",
+	"difficulties": "",
+	"hideFreeplay": false,
+	"weekBackground": "sj",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"stars",
+			"sans",
+			[
+				0,
+				0,
+				55
+			]
+		],
+		[
+			"msteor",
+			"sans",
+			[
+				0,
+				0,
+				55
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "star",
+	"hiddenUntilUnlocked": false
+}
