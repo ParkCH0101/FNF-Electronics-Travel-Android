@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				-70,
+				70
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "idle"
+		},
+		{
+			"offsets": [
+				150,
+				186
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "left"
+		},
+		{
+			"offsets": [
+				124,
+				220
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "down"
+		},
+		{
+			"offsets": [
+				135,
+				262
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "up"
+		},
+		{
+			"offsets": [
+				59,
+				185
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				57,
+				130
+			],
+			"indices": [],
+			"fps": 24,
+			"anim": "open",
+			"loop": false,
+			"name": "open"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/starjump2",
+	"position": [
+		-70,
+		240
+	],
+	"healthicon": "sans",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		255,
+		255
+	],
+	"camera_position": [
+		-120,
+		-290
+	],
+	"sing_duration": 7.49999999999999,
+	"scale": 1
+}
